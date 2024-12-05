@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a third-year student at the Indian Institute o
 - 📫 **How to reach me**: [Email](sounakbhawal2010@kgpian.iitkgp.ac.in) | [LinkedIn](https://www.linkedin.com/in/sounak-bhawal-904376258/) | [Instagram](https://www.instagram.com/sounakbhawal?igsh=eGVrNWpxa2hmMGZt)
 
 ## 🛠️ Technologies & Tools
-- **Languages**: C++, Python
-- **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, Visual Studio Code
+- **Languages**: C, C++, Python, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, ReactJs, Express.js, MongoDB, Mongoose, NodeJs
+- **Tools**: Git, GitHub, Visual Studio Code, SQL
 
 
 <!--
